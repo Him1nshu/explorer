@@ -1,0 +1,216 @@
+match_no,runs,match_date,opponent,venue,dismissal
+1,23,2011-04-09,MI,Chinnaswamy Stadium,Caught
+2,12,2011-04-12,PBKS,Chinnaswamy Stadium,Bowled
+3,71,2011-04-14,DC,Rajiv Gandhi Intl Stadium,Not Out
+4,35,2011-04-19,RR,Sawai Mansingh Stadium,Run Out
+5,12,2011-04-22,CSK,MA Chidambaram Stadium,Caught
+6,56,2011-04-26,DD,Feroz Shah Kotla,LBW
+7,67,2011-04-29,PWI,Chinnaswamy Stadium,Caught
+8,27,2011-05-02,KKR,Eden Gardens,Bowled
+9,15,2011-05-06,PBKS,Chinnaswamy Stadium,Caught
+10,44,2011-05-08,Kochi,Holkar Cricket Stadium,Not Out
+11,31,2011-05-11,RR,Sawai Mansingh Stadium,Caught
+12,56,2011-05-14,KKR,Chinnaswamy Stadium,Not Out
+13,9,2011-05-17,CSK,Chinnaswamy Stadium,Bowled
+14,27,2011-05-22,CSK,MA Chidambaram Stadium,Caught
+15,70,2011-05-24,CSK,Wankhede Stadium,Not Out
+16,35,2011-05-27,MI,MA Chidambaram Stadium,LBW
+17,24,2012-04-04,DD,Feroz Shah Kotla,Caught
+18,57,2012-04-07,KKR,Chinnaswamy Stadium,Caught
+19,6,2012-04-10,CSK,MA Chidambaram Stadium,Run Out
+20,16,2012-04-12,CSK,Chinnaswamy Stadium,Caught
+21,73,2012-04-15,RR,Chinnaswamy Stadium,Not Out
+22,45,2012-04-17,PWI,Subrata Roy Sahara Stadium,Caught
+23,9,2012-04-20,PBKS,IS Bindra Stadium,Bowled
+24,22,2012-04-23,RR,Sawai Mansingh Stadium,Caught
+25,4,2012-04-25,CSK,Chinnaswamy Stadium,LBW
+26,18,2012-04-29,KKR,Eden Gardens,Caught
+27,34,2012-05-02,PBKS,Chinnaswamy Stadium,Caught
+28,70,2012-05-06,DC,Chinnaswamy Stadium,Not Out
+29,3,2012-05-09,MI,Wankhede Stadium,Bowled
+30,35,2012-05-11,PWI,Chinnaswamy Stadium,Caught
+31,32,2012-05-14,MI,Chinnaswamy Stadium,Run Out
+32,73,2012-05-17,DD,Feroz Shah Kotla,Not Out
+33,24,2013-04-04,MI,Chinnaswamy Stadium,Caught
+34,46,2013-04-07,SRH,Rajiv Gandhi Intl Stadium,Run Out
+35,57,2013-04-09,SRH,Chinnaswamy Stadium,Not Out
+36,3,2013-04-11,KKR,Chinnaswamy Stadium,Caught
+37,4,2013-04-13,CSK,MA Chidambaram Stadium,Caught
+38,39,2013-04-16,DD,Chinnaswamy Stadium,Run Out
+39,11,2013-04-20,RR,Chinnaswamy Stadium,Caught
+40,1,2013-04-23,PWI,Chinnaswamy Stadium,LBW
+41,43,2013-04-27,MI,Wankhede Stadium,Caught
+42,16,2013-04-29,RR,Sawai Mansingh Stadium,Bowled
+43,14,2013-05-02,PWI,Subrata Roy Sahara Stadium,Caught
+44,57,2013-05-06,PBKS,IS Bindra Stadium,Caught
+45,65,2013-05-10,DD,Feroz Shah Kotla,Run Out
+46,17,2013-05-12,KKR,Eden Gardens,Caught
+47,56,2013-05-14,PBKS,Chinnaswamy Stadium,Bowled
+48,58,2013-05-18,CSK,Chinnaswamy Stadium,Not Out
+49,49,2014-04-17,DD,Feroz Shah Kotla,Not Out
+50,31,2014-04-19,MI,Wankhede Stadium,Caught
+51,2,2014-04-24,KKR,Eden Gardens,Bowled
+52,5,2014-04-26,RR,Sawai Mansingh Stadium,Caught
+53,13,2014-04-28,PBKS,IS Bindra Stadium,Caught
+54,0,2014-05-04,SRH,Chinnaswamy Stadium,Caught
+55,4,2014-05-09,PBKS,Chinnaswamy Stadium,Caught
+56,1,2014-05-11,RR,Chinnaswamy Stadium,LBW
+57,35,2014-05-13,DD,Chinnaswamy Stadium,Run Out
+58,73,2014-05-18,CSK,JSCA Stadium,Caught
+59,67,2014-05-20,SRH,Rajiv Gandhi Intl Stadium,Caught
+60,30,2014-05-22,KKR,Eden Gardens,Caught
+61,27,2014-05-24,CSK,Chinnaswamy Stadium,LBW
+62,7,2014-05-29,CSK,Wankhede Stadium,Caught
+63,41,2015-04-11,KKR,Eden Gardens,Caught
+64,45,2015-04-13,SRH,Chinnaswamy Stadium,Bowled
+65,18,2015-04-19,MI,Wankhede Stadium,Caught
+66,51,2015-04-22,CSK,Chinnaswamy Stadium,Caught
+67,62,2015-04-24,RR,Narendra Modi Stadium,Not Out
+68,1,2015-04-26,DD,Feroz Shah Kotla,Caught
+69,13,2015-04-29,RR,Chinnaswamy Stadium,Bowled
+70,48,2015-05-02,KKR,Chinnaswamy Stadium,Not Out
+71,4,2015-05-04,CSK,MA Chidambaram Stadium,Run Out
+72,32,2015-05-06,PBKS,Chinnaswamy Stadium,Caught
+73,82,2015-05-10,MI,Wankhede Stadium,Not Out
+74,19,2015-05-13,PBKS,IS Bindra Stadium,Caught
+75,6,2015-05-15,SRH,Rajiv Gandhi Intl Stadium,Caught
+76,35,2015-05-17,DD,Chinnaswamy Stadium,Not Out
+77,12,2015-05-20,RR,MCA Stadium,Bowled
+78,12,2015-05-22,CSK,JSCA Stadium,Caught
+79,75,2016-04-12,SRH,Chinnaswamy Stadium,Caught
+80,79,2016-04-17,DD,Chinnaswamy Stadium,Not Out
+81,33,2016-04-20,MI,Wankhede Stadium,Caught
+82,80,2016-04-22,RPS,MCA Stadium,Not Out
+83,100,2016-04-24,GL,Saurashtra Cricket Assoc,Not Out
+84,14,2016-05-02,KKR,Chinnaswamy Stadium,Caught
+85,52,2016-05-07,RPS,Chinnaswamy Stadium,Not Out
+86,109,2016-05-14,GL,Chinnaswamy Stadium,Not Out
+87,75,2016-05-16,KKR,Eden Gardens,Not Out
+88,113,2016-05-18,PBKS,Chinnaswamy Stadium,Not Out
+89,54,2016-05-22,DD,Raipur Stadium,Not Out
+90,0,2016-05-24,GL,Chinnaswamy Stadium,Bowled
+91,54,2016-05-29,SRH,Chinnaswamy Stadium,Caught
+92,62,2017-04-14,MI,Chinnaswamy Stadium,Caught
+93,28,2017-04-16,RPS,Chinnaswamy Stadium,Caught
+94,64,2017-04-18,GL,Saurashtra Cricket Assoc,Caught
+95,55,2017-04-23,KKR,Eden Gardens,Caught
+96,0,2017-04-27,GL,Chinnaswamy Stadium,Caught
+97,5,2017-05-01,MI,Wankhede Stadium,Caught
+98,6,2017-05-05,PBKS,Chinnaswamy Stadium,Bowled
+99,58,2017-05-07,KKR,Chinnaswamy Stadium,Caught
+100,10,2017-05-14,DD,Feroz Shah Kotla,Caught
+101,21,2018-04-08,KKR,Eden Gardens,Caught
+102,45,2018-04-13,PBKS,Chinnaswamy Stadium,Caught
+103,31,2018-04-15,RR,Chinnaswamy Stadium,Run Out
+104,92,2018-04-17,MI,Wankhede Stadium,Not Out
+105,30,2018-04-21,DD,Chinnaswamy Stadium,Not Out
+106,68,2018-04-25,CSK,Chinnaswamy Stadium,Caught
+107,32,2018-04-29,KKR,Chinnaswamy Stadium,Not Out
+108,12,2018-05-01,MI,Chinnaswamy Stadium,Caught
+109,53,2018-05-05,CSK,MCA Stadium,Caught
+110,39,2018-05-07,SRH,Rajiv Gandhi Intl Stadium,Caught
+111,70,2018-05-12,DD,Feroz Shah Kotla,Run Out
+112,4,2018-05-14,PBKS,Holkar Cricket Stadium,Not Out
+113,12,2018-05-17,SRH,Chinnaswamy Stadium,Bowled
+114,28,2018-05-19,RR,Sawai Mansingh Stadium,Stumped
+115,6,2019-03-23,CSK,MA Chidambaram Stadium,Caught
+116,46,2019-03-28,MI,Chinnaswamy Stadium,Caught
+117,3,2019-03-31,SRH,Rajiv Gandhi Intl Stadium,Caught
+118,23,2019-04-02,RR,Sawai Mansingh Stadium,Caught
+119,84,2019-04-05,KKR,Chinnaswamy Stadium,Caught
+120,41,2019-04-07,DC,Chinnaswamy Stadium,Caught
+121,67,2019-04-13,PBKS,IS Bindra Stadium,Caught
+122,8,2019-04-15,MI,Wankhede Stadium,Caught
+123,100,2019-04-19,KKR,Eden Gardens,Caught
+124,9,2019-04-21,CSK,Chinnaswamy Stadium,Caught
+125,17,2019-04-24,PBKS,Chinnaswamy Stadium,Not Out
+126,9,2019-04-28,DC,Feroz Shah Kotla,Caught
+127,25,2019-04-30,RR,Chinnaswamy Stadium,Caught
+128,16,2019-05-04,SRH,Chinnaswamy Stadium,Caught
+129,14,2020-09-21,SRH,Chinnaswamy Stadium,Caught
+130,1,2020-09-24,PBKS,Chinnaswamy Stadium,Caught
+131,3,2020-09-28,MI,Wankhede Stadium,Caught
+132,72,2020-10-03,RR,Sawai Mansingh Stadium,Not Out
+133,43,2020-10-05,DC,Arun Jaitley Stadium,Caught
+134,90,2020-10-10,CSK,MA Chidambaram Stadium,Not Out
+135,33,2020-10-12,KKR,Eden Gardens,Not Out
+136,48,2020-10-15,PBKS,IS Bindra Stadium,Caught
+137,43,2020-10-17,RR,Sawai Mansingh Stadium,Caught
+138,18,2020-10-21,KKR,Eden Gardens,Bowled
+139,50,2020-10-25,CSK,MA Chidambaram Stadium,Caught
+140,9,2020-10-28,MI,Wankhede Stadium,Caught
+141,7,2020-10-31,SRH,Rajiv Gandhi Intl Stadium,Caught
+142,29,2020-11-02,DC,Arun Jaitley Stadium,Caught
+143,6,2020-11-06,SRH,Rajiv Gandhi Intl Stadium,Caught
+144,33,2021-04-09,MI,MA Chidambaram Stadium,Caught
+145,33,2021-04-14,SRH,MA Chidambaram Stadium,Caught
+146,5,2021-04-18,KKR,MA Chidambaram Stadium,Caught
+147,72,2021-04-22,RR,Wankhede Stadium,Not Out
+148,8,2021-04-25,CSK,Wankhede Stadium,Caught
+149,12,2021-04-27,DC,Narendra Modi Stadium,Bowled
+150,35,2021-04-30,PBKS,Narendra Modi Stadium,Caught
+151,5,2021-09-20,KKR,Eden Gardens,LBW
+152,53,2021-09-24,CSK,Chinnaswamy Stadium,Caught
+153,51,2021-09-26,MI,Wankhede Stadium,Caught
+154,25,2021-09-29,RR,Sawai Mansingh Stadium,Run Out
+155,25,2021-10-03,PBKS,IS Bindra Stadium,Bowled
+156,4,2021-10-06,SRH,Rajiv Gandhi Intl Stadium,Caught
+157,39,2021-10-08,DC,Arun Jaitley Stadium,Caught
+158,39,2021-10-11,KKR,Eden Gardens,Bowled
+159,41,2022-03-27,PBKS,DY Patil Stadium,Not Out
+160,12,2022-03-30,KKR,DY Patil Stadium,Caught
+161,5,2022-04-05,RR,Wankhede Stadium,Run Out
+162,48,2022-04-09,MI,MCA Stadium,LBW
+163,1,2022-04-12,CSK,DY Patil Stadium,Caught
+164,12,2022-04-16,DC,Wankhede Stadium,Run Out
+165,0,2022-04-19,LSG,DY Patil Stadium,Caught
+166,0,2022-04-23,SRH,Brabourne Stadium,Caught
+167,9,2022-04-26,RR,MCA Stadium,Caught
+168,58,2022-04-30,GT,Brabourne Stadium,Bowled
+169,30,2022-05-04,CSK,MCA Stadium,Bowled
+170,0,2022-05-08,SRH,Wankhede Stadium,Caught
+171,20,2022-05-13,PBKS,Brabourne Stadium,Caught
+172,73,2022-05-19,GT,Wankhede Stadium,Caught
+173,25,2022-05-25,LSG,Eden Gardens,Caught
+174,7,2022-05-27,RR,Narendra Modi Stadium,Caught
+175,82,2023-04-02,MI,Chinnaswamy Stadium,Not Out
+176,21,2023-04-06,KKR,Eden Gardens,Bowled
+177,61,2023-04-10,LSG,Chinnaswamy Stadium,Caught
+178,50,2023-04-15,DC,Chinnaswamy Stadium,Caught
+179,6,2023-04-17,CSK,Chinnaswamy Stadium,Caught
+180,59,2023-04-20,PBKS,IS Bindra Stadium,Caught
+181,0,2023-04-23,RR,Chinnaswamy Stadium,LBW
+182,54,2023-04-26,KKR,Chinnaswamy Stadium,Caught
+183,31,2023-05-01,LSG,Ekana Stadium,Caught
+184,55,2023-05-06,DC,Arun Jaitley Stadium,Caught
+185,1,2023-05-09,MI,Wankhede Stadium,Caught
+186,18,2023-05-14,RR,Sawai Mansingh Stadium,Caught
+187,100,2023-05-18,SRH,Rajiv Gandhi Intl Stadium,Caught
+188,101,2023-05-21,GT,Chinnaswamy Stadium,Not Out
+189,21,2024-03-22,CSK,MA Chidambaram Stadium,Caught
+190,77,2024-03-25,PBKS,Chinnaswamy Stadium,Caught
+191,83,2024-03-29,KKR,Chinnaswamy Stadium,Not Out
+192,22,2024-04-02,LSG,Chinnaswamy Stadium,Caught
+193,113,2024-04-06,RR,Sawai Mansingh Stadium,Not Out
+194,3,2024-04-11,MI,Wankhede Stadium,Caught
+195,42,2024-04-15,SRH,Chinnaswamy Stadium,Bowled
+196,18,2024-04-21,KKR,Eden Gardens,Caught
+197,51,2024-04-25,SRH,Rajiv Gandhi Intl Stadium,Caught
+198,70,2024-04-28,GT,Narendra Modi Stadium,Not Out
+199,42,2024-05-04,GT,Chinnaswamy Stadium,Caught
+200,92,2024-05-09,PBKS,HPCA Stadium,Run Out
+201,27,2024-05-12,DC,Chinnaswamy Stadium,Caught
+202,47,2024-05-18,CSK,Chinnaswamy Stadium,Caught
+203,33,2024-05-22,RR,Narendra Modi Stadium,Caught
+204,41,2025-03-23,CSK,Chinnaswamy Stadium,Caught
+205,82,2025-03-27,MI,Wankhede Stadium,Not Out
+206,12,2025-04-01,PBKS,IS Bindra Stadium,Bowled
+207,67,2025-04-05,RR,Sawai Mansingh Stadium,Caught
+208,45,2025-04-09,KKR,Eden Gardens,Caught
+209,101,2025-04-13,GT,Chinnaswamy Stadium,Not Out
+210,5,2025-04-17,LSG,Ekana Stadium,Caught
+211,28,2025-04-21,DC,Arun Jaitley Stadium,Caught
+212,56,2025-04-25,SRH,Rajiv Gandhi Intl Stadium,Not Out
+213,88,2025-04-29,MI,Chinnaswamy Stadium,Caught
+214,15,2025-05-04,CSK,MA Chidambaram Stadium,Bowled
+215,74,2025-05-09,RR,Chinnaswamy Stadium,Caught
